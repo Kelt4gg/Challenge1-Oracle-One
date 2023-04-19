@@ -9,4 +9,4 @@ A letra "u" é convertida para "ufat"
 
 Por exemplo: "gato" => "gaitober" gaitober" => "gato"
 
-Deploy do projeto: 
+Deploy do projeto: https://kelt4gg.github.io/Challenge1-Oracle-One/
